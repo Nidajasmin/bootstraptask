@@ -104,6 +104,7 @@
 }
 .card-body{
     background-color: whitesmoke;
+    gap: 10px;
 }
 
 
