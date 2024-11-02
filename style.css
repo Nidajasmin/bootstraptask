@@ -1,0 +1,205 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav-item{
+    border: 1px solid white;
+    margin-right: 20px;
+}
+#banner-container{
+    padding: 0px;
+}
+#navbarNav{
+    justify-content: center;
+}
+
+ /* #section1{
+    justify-content: center;
+    text-align: center;
+    padding-top: 250px;
+    font-size:20px;
+    background-image:url("imge1.png" );
+    background-repeat: no-repeat;
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    color: white; */
+   
+    
+ /* } */
+ .section33{
+
+    
+    background-size: cover;
+    background-position: center;
+    color: white;
+    
+ }
+ #concure{
+    font-size: 60px;
+    padding-top: 150px;
+    font-weight: 400;
+ }
+ #pp{
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+ }
+ 
+#section>h1{
+    color: white;
+}
+#navbarr{
+    background-color: rgb(38, 36, 36);
+    
+}
+#title1{
+    color: green;
+}
+#title2{
+    color: rgba(14, 138, 199, 0.785);
+}
+#title3{
+    color: rgb(193, 14, 14);
+}
+#b2{
+    color: black;
+    background-color: white;
+    border-radius: 1px;
+
+}
+#b22{
+    color: black;
+    background-color: white;
+    border-radius: 1px;
+    
+
+}
+#b1{
+    color: white;
+}
+#title4{
+    color:black;
+}
+#title5{
+    color:black;
+
+}
+#title6{
+    color:rgb(242, 138, 12);
+    
+}
+#title7{
+    color:rgb(2, 81, 2);
+    
+}
+#title8{
+    color:rgb(19, 94, 126);
+    
+}
+#title9{
+    color:rgb(11, 81, 61);
+    
+}
+.card-body{
+    background-color: whitesmoke;
+}
+
+
+.contact{
+    background-image:url("photo6.jpeg.png" ) ;
+   
+}
+
+
+
+#section12 {
+   
+    justify-content: center;
+    text-align: center;
+    padding-top: 0;
+    font-size:20px;
+   background-image: url(formimg2.jpeg);
+    background-repeat: no-repeat;
+    height: 20vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    
+   
+}
+     
+
+  
+  .card-img-top{ 
+    height: 200px;
+  }
+
+  #bigimg{
+    height: 300px;
+  }
+  .one-big-column{
+    padding-top: 30px;
+  }
+  #rh{
+    text-align: left;
+    color: burlywood;
+  }
+  p{
+    text-align: justify;
+  }
+
+ 
+  #img1{
+    height: 400px;
+}
+#banner3{
+    height: 500px;
+    padding: 0px;
+}
+#para{
+    margin-left: 127px;
+    margin-right: 100px;
+    opacity: 0.5;
+    /* width: 650px; */
+    text-align: center;
+    
+}
+#banner-container3{
+    padding: 0px;
+}
+#form1{
+    opacity: 0.5;
+    margin-left: 113px;
+    margin-right: 90px;
+}
+#form1>div>input{
+    height: 30px;
+}
+#form1>div>textarea{
+    height: 136px;
+}
+#contact{
+    margin-top: 0px;
+}
+#btn5{
+    margin-left: -243px;
+}
+
+
+
+.jumbotron { 
+    background-color: rgba(0, 0, 0, 0.5); 
+     color: white;  
+     padding-top: 5px;
+
+}
+  
+.jumbotron h1, .jumbotron h2, .jumbotron p {
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+} 
+#servicehead{
+    font-weight: 10px bold;
+}
