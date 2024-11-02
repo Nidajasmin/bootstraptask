@@ -170,6 +170,16 @@
 #banner-container3{
     padding: 0px;
 }
+
+
+
+@media screen and (min-width: 400px) {
+    .form {
+        margin-left: 100px;
+        margin-right: 100px;
+        opacity: 0.5;
+    }
+  }
 #form1{
     opacity: 0.5;
     margin-left: 113px;
